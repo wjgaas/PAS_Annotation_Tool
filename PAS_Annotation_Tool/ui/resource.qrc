@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>../resource/logo.ico</file>
+        <file>../resource/logo.png</file>
+        <file>../resource/tourial1.PNG</file>
+        <file>../resource/tourial2.png</file>
+    </qresource>
+</RCC>
