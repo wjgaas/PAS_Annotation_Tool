@@ -10,7 +10,7 @@ this is a passcal annotation tool, annotation objects in images for object detec
 ##examole
 
 
-# PASCAL Annotation Version 1.00
+\# PASCAL Annotation Version 1.00
 
 
 Image filename : "D:/work/annotations/300852540_1.txt"
@@ -22,12 +22,12 @@ Database : "UESTC-IMAGE-PROCESSING-LAB"
 Objects with ground truth : 0 { "" "" "" "" }
 
 
-# Note that there might be other objects in the image
+\# Note that there might be other objects in the image
 
-# for which ground truth data has not been provided.
+\# for which ground truth data has not been provided.
 
 
-# Top left pixel co-ordinates : (1, 1)
+\# Top left pixel co-ordinates : (1, 1)
 
 
 
