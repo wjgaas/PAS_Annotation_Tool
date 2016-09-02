@@ -7,7 +7,7 @@ this is a passcal annotation tool, annotation objects in images for object detec
 “帮助->使用说明”
 
 
-##examole
+##example
 
 
 \# PASCAL Annotation Version 1.00
